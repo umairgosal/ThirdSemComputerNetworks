@@ -5,5 +5,7 @@ The code files have been uploaded only because of space restriction
 
 To run the simulation, paste the files inside scratch folder in your ns3 folder's scratch folder and run the terminal command "./ns3 run scratch/{filename}.cc"
 
+the xml files can also be directly opened with netanim to view created simulations.
+
 below is the snapshot of the simulation that we created.
 ![image](https://github.com/umairgosal/computerNetworksProject/assets/113062175/f6ee7653-25ee-40ec-b3a4-c2943e952023)
